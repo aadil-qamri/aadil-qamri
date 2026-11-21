@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aadil 👋
+Self-taught full-stack developer | Next.js · TypeScript · Node.js
 
-<!--
-**aadil-qamri/aadil-qamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building: Inventory Management Dashboard  
+🌱 Looking for: Web Development Internship  
+📫 Reach me: aadilansari.ws@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Next.js · React · TypeScript · Node.js · MongoDB · PostgreSQL · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Live Projects
+- [Inventory Manager](https://inventory-management-app-snowy-psi.vercel.app/)
+- [URL Shortener](https://bitlink-v6.vercel.app)
