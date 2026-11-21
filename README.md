@@ -3,7 +3,7 @@ Self-taught full-stack developer | Next.js · TypeScript · Node.js
 
 🔭 Currently building: Inventory Management Dashboard  
 🌱 Looking for: Web Development Internship  
-📫 Reach me: aadilansari.ws@gmail.com
+📫 Reach me: aadilqamri4@gmail.com
 
 ## 🛠️ Tech Stack
 Next.js · React · TypeScript · Node.js · MongoDB · PostgreSQL · Tailwind CSS
